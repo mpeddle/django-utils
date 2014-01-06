@@ -1,0 +1,4 @@
+Django Utils
+
+Includes a port of Eric Holcher's check_indexes script to MySQL 
+See here for Postgres : https://github.com/ericholscher/django-debug-utils/
